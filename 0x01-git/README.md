@@ -1,2 +1,9 @@
 ### 0x01-GIT
-- Setting up of github for the ALX SE program 
+
+Contains the following tasks:
+- Repo-Session.
+- Coding Fury Road.
+- Collaboration is the BAse of a Company.
+- Collaboration: Be up to Date.
+- HAAA What did you do???
+- Never Push Too Much.
