@@ -1,3 +1,4 @@
 ### ALX PRE COURSE
 
-- This repository contains alx pre-course setup
+Created thefirst repository using the graphic interface on the github website
+
